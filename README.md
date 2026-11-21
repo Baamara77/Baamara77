@@ -81,7 +81,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/___ls7_/" target="_blank">
+  <a href="https://www.instagram.com/baamara77/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:baamarahadjslimane77@gmail.com">
